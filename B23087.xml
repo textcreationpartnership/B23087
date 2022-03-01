@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Earle of Forth to His Excellency Robert Earle of Essex, lord generall, &amp;c. dated 15 Feb., 1643 and His Excellencies answer thereunto dated 19 Febr, 1643 : also a petition of the well-affected nobility and gentry of the realm of Ireland who have suffered under the bloody rebels there, and presented to the Lords Justices to be presented to His Majesty, which was done accordingly, and the agents accepted to come to His Majesty.</title>
+            <author>Forth and Brentford, Patrick Ruthven, Earl of, 1573?-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23087</idno>
+            <idno type="STC">Wing F1615</idno>
+            <idno type="EEBO-CITATION">12085310</idno>
+            <idno type="OCLC">ocm 12085310</idno>
+            <idno type="VID">196597</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196597)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 235:E37, no 12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Earle of Forth to His Excellency Robert Earle of Essex, lord generall, &amp;c. dated 15 Feb., 1643 and His Excellencies answer thereunto dated 19 Febr, 1643 : also a petition of the well-affected nobility and gentry of the realm of Ireland who have suffered under the bloody rebels there, and presented to the Lords Justices to be presented to His Majesty, which was done accordingly, and the agents accepted to come to His Majesty.</title>
+                  <author>Forth and Brentford, Patrick Ruthven, Earl of, 1573?-1651.</author>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. C. and T. G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The petition from the Irish Protestant is signed by 129 persons.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196597:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Earle of Forth, to His Excellency <hi>Robert</hi> Earle of Eſſex, Lord Generall, &amp;c. dated 15 <hi>Feb.</hi> 1643.</p>
+            <p>AND His Excellencies Anſwer thereunto, dated 19 Febr. 1643.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>March 8. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>IT is his Excellencies pleaſure theſe Letters be forthwith printed.</p>
+                        <closer>
+                           <signed>I Baldwin Secretary to His Excellency.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>ALSO A PETITION of the well-affected Nobility and Gentry of the Realm of <hi>Ireland,</hi> who have ſuffered under the bloody Rebels there; and preſented to the Lords Juſtices, to be preſented to His Majeſty, which was done accordingly; and the Agents accepted to come to His Majeſty.</p>
+            <p>Printed according to Order.</p>
+            <p>
+               <add>march. 13<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed for <hi>J. C.</hi> and <hi>T.G.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196597:2"/>
+            <pb n="1" facs="tcp:196597:2"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Cannot ſo willingly write to you in any buſineſſe, as in that of Peace. The endeavour thereof being the principall duty of thoſe who are truſted in places of our Commands, eſpecially, when the blood that is ſpilt, is of perſons under the ſame Allegiance, of the ſame Countrey and Religion. His Majeſty continuing conſtant in His pious and frequent deſires of a happy end to thoſe bloody diſtractions. I doe hereby deſire your Lordſhip to ſend me a ſafe Conduct to and from <hi>Weſtminſter,</hi> for Mr. <hi>Richard Fanſhaw,</hi> and Mr. <hi>Thomas Ofly,</hi> Eſquires; to be ſent by His Ma<g ref="char:EOLhyphen"/>jeſty, concerning a Treaty for Peace. I reſt</p>
+            <closer>
+               <signed>Your Lordſhips humble ſervant <hi>FORTH.</hi>
+               </signed>
+               <dateline>Oxford, <date>Feb. 15. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="2" facs="tcp:196597:3"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou ſhew your Nobleneſſe in decla<g ref="char:EOLhyphen"/>ring your willingneſſe to write to me in any buſineſſe as of that of Peace; and I joyn with you in the ſame opinion, that it ought to be a principall duty of thoſe who are truſted in a place of our command. And therefore when<g ref="char:EOLhyphen"/>ſoever I ſhall receive any directions to thoſe who have entruſted me, I ſhall uſe my beſt endeavours; and when you ſhall ſend for a ſafe Conduct for thoſe Gentlemen mentioned in your Letter, from His Majeſty to the Houſes of Parliament, J ſhall with all chearefulneſſe ſhew my willingneſſe to further any way that may pro<g ref="char:EOLhyphen"/>duce that happineſſe that all honeſt men pray for, which is a true underſtanding between His Majeſty and His faithfull and onely Councell the Parliament.</p>
+            <closer>
+               <signed>Your Lordſhips humble ſervant. <hi>ESSEX.</hi>
+               </signed>
+               <dateline>
+                  <date>Feb. 19. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="3" facs="tcp:196597:3"/>
+            <head>TO THE KINGS MOST Excellent Majeſtie.</head>
+            <head type="sub">The humble Petition of divers of Your Majeſties Proteſtant Subjects of Your Kingdome of <hi>Ireland,</hi> as well Commanders of Your Majeſties Army as others, whoſe names are ſubſcribed in the behalfe of them<g ref="char:EOLhyphen"/>ſelves and others your Proteſtant-Subjects in this your Kingdome;</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat this your Kingdome reduced with a vaſt ex<g ref="char:EOLhyphen"/>pence of Treaſure, and much effuſion of Brittiſh blood, to the obedience of the Imperiall Crowne of <hi>England,</hi> hath beene by the Princely care of Your Royall Progenitors, eſpecially of Queene <hi>Elizabeth,</hi> and of Your Royall Father of ever bleſ<g ref="char:EOLhyphen"/>ſed memory, and Your ſacred Majeſty, in many parts happily planted, great ſums of Money disburſed in buildings and improve<g ref="char:EOLhyphen"/>ments, Churches edified and endowed, and frequented with mul<g ref="char:EOLhyphen"/>titudes of good Proteſtants, and your Cuſtoms and Revenues rai<g ref="char:EOLhyphen"/>ſed to great yeerly ſummes by the induſtry of the Proteſtant Sub<g ref="char:EOLhyphen"/>jects eſpecially, and great yeerly ſummes by way of Subſidies and Contributions cheerfully paid unto. Your Majeſtie by Your ſaid Subjects; in which happineſſe this Your ſaid Kingdom hath flouri<g ref="char:EOLhyphen"/>ſhed in a long continued Peace, and under Your Highneſſe moſt glo<g ref="char:EOLhyphen"/>rious and happy government, untill that by the preſent Conſpiracy
+<pb n="4" facs="tcp:196597:4"/>and Rebellion raiſed out of deteſtation of Your bleſſed government, and for rooting out of the Proteſtant Religion, and ſo for the diſ<g ref="char:EOLhyphen"/>poſſeſſing of Your Majeſty of this Your ſaid Kingdome, without the leaſt occaſion offered by Your Majeſty or Your Proteſtant Sub<g ref="char:EOLhyphen"/>jects. And notwithſtanding that Your Majeſtie immediately before had inla<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged, beyond preſident, Your Royall favour and bounty to them, in g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anting all that their and our joynt Agents did deſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Your Majeſtie. And we continuing amongſt them in all love and amitie, wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout diſtruſt; Your Petitioners and others, who laboured to oppoſe thoſe damnable deſignes and practices, have beene driven from their Dwellings, Eſtates and Fortunes, their Houſes and Chur<g ref="char:EOLhyphen"/>ches burnt and demoliſhed, all Monuments of civility defaced ut<g ref="char:EOLhyphen"/>terly, Your Majeſties Forts and places of ſtrength throwne downe, and the Common and S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atute Lawes of this Your Kingdome utterly confounded, by taking upon themſelves the exerciſe of all manner of Authority and Juriſdiction Eccleſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſticall and Civill both by Land and Sea, proper and peculiar to Your ſacred Majeſtie, being Your juſt Prerogatives, and the royall Flowers of Your Imperiall D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adem, to the diſheriſon of Your Crowne and Revenues brought to nothing, and the Proteſtant Clergy, wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h their Revenues and Support, for the preſent deſtroyed. This Your Kingdome in all parts, formerly inhabited in all parts by Brittiſh Proteſtants, now depopulated of them, and many thouſands of Your Proteſtant Subjects moſt barbarouſly uſed, ſtripped naked, tortured, famiſhed, hanged, buried alive, drowned, and otherwiſe by all barbarous cru<g ref="char:EOLhyphen"/>ell ſorts of death murdered. Such as yet remaine of them are redu<g ref="char:EOLhyphen"/>ced to that extremity, that very few of them have wherewith all to maintaine a being, and all of them ſo terrified and afflicted with theſe barbarous and inhumane cruelties (the true reports whereof being now ſpread abroad into the Chriſtian world) Your Suppliants conceive feare that Your Majeſties Brittiſh Subjects will be diſcou<g ref="char:EOLhyphen"/>raged from comming againe to inhabit this Kingdome, and the remnant of the Brittiſh left here will be inforced to depart. All this being done by the Conſpiracy of the Papiſts, who did publikely declare the utter extirpation of the Proteſtant Religion, and all the Brittiſh Profeſſors thereof, out of this Your Majeſties Kingdome. And to the end it may the better appeare in ſome meaſure, Your Sup<g ref="char:EOLhyphen"/>pliants have made choice of Captaine <hi>William Ridgeway,</hi> Sir <hi>Francis
+<pb n="7" facs="tcp:196597:4"/>Hambleton</hi> Knight and Baronet. Captaine <hi>Michael Iones,</hi> and Maſter <hi>Fenton Parſons,</hi> whom they have imployed and authorized as their Agents, to manifeſt the truth thereof in ſuch particulars as for the preſent they are furniſhed withall, referring the more ample manife<g ref="char:EOLhyphen"/>ſtation to Cap. <hi>Wil. Ridgeway, Fr. Hambleton, Michael Iones,</hi> and <hi>Fen<g ref="char:EOLhyphen"/>ton Parſons,</hi> or any 3 or more of them, or any ſuch other agents as ſhall with all convenient ſpeed be ſent as occaſion ſhall require, to attend Your Majeſty, from Your Proteſtant Subjects of the ſeverall Provinces of this Your Kindome.</p>
+            <p>Wee therefore Your Majeſties moſt humble loyall and obedient <hi>Proteſtant</hi> Subjects, caſting downe our ſelves at Your Royall feete, and flying to You for redreſſe, and Sutors in theſe our great cala<g ref="char:EOLhyphen"/>mities, as our moſt gratious Soveraigne Lord and King; And next and immediate under Almighty God, our Protector and Defence: moſt humbly beſeeching Your Sacred Majeſty to admit into Your Royall Preſence, from time to time our ſayd Agents; And in Your great Wiſdome to take into Your great care and conſidera<g ref="char:EOLhyphen"/>tion the diſtreſſed eſtates, and humble deſires of your ſaid ſubjects, ſo that the glory of God, Your Majeſties Honour, and the happi<g ref="char:EOLhyphen"/>neſſe of Your Subjects, the Proteſtant Religion may be reſtored throughout the whole Kingdome to its Iuſtre. That the loſſes of Your Proteſtant Subjects may be repaired in ſuch manner, and mea<g ref="char:EOLhyphen"/>ſure as Your Majeſty in Your Princely Wiſdome ſhall thinke fit. And that this Kingdom may be ſo ſetled, as that your ſaid Proteſtant Subjects may hereafter live therein under the happy govern<g ref="char:EOLhyphen"/>ment of Your Majeſty and Your Royall poſterity with comtort and ſecurity; whereby Your Majeſty will render Your ſelfe through<g ref="char:EOLhyphen"/>out the whole World, a moſt juſt and glorious defender of the Proteſtant Religion, and draw downe a bleſſing on all other Your Royall undertakings, for which Your <hi>Petitioners</hi> will ever pray, &amp;c.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>GEorge Kildare.</item>
+                     <item>Montgomery.</item>
+                     <item>Henry Blaney.</item>
+                     <item>Mr. Ridgeway.</item>
+                     <item>Ja. Montgomery.</item>
+                     <item>Cha. Coote.</item>
+                     <item>Fra. Hamilton.</item>
+                     <item>Ar. Forbiſh.</item>
+                     <item>Ro. Hannah.</item>
+                     <item>Ro. Stuart.</item>
+                     <item>William Cooley.</item>
+                     <item>Ar. Blundell.</item>
+                     <item>Fra. Shurley.</item>
+                     <item>Ja. Dumbettr.</item>
+                     <item>Edw. Peuey.</item>
+                     <item>Tho. Merideth.</item>
+                     <item>Ar. Loftus.</item>
+                     <item>Wil. <g ref="char:V">Ʋ</g>ſher.</item>
+                     <item>Fra. Slingsby.</item>
+                     <item>Fra. Willougby.</item>
+                     <item>Ion Morris.</item>
+                     <pb n="6" facs="tcp:196597:5"/>
+                     <item> Geo. Munke.</item>
+                     <item>Rob. Sterling.</item>
+                     <item>Hen. Iones.</item>
+                     <item>Io. Pygot.</item>
+                     <item>Rob. Baliffe.</item>
+                     <item>Ed. Philpot.</item>
+                     <item>Anth. Trime.</item>
+                     <item>Wil. Parſons.</item>
+                     <item>Ioh. Edgworth.</item>
+                     <item>Wil. Bodoley.</item>
+                     <item>Fran. Moore.</item>
+                     <item>Io. Nueman.</item>
+                     <item>Fra. Bowes.</item>
+                     <item>Will. Plankot.</item>
+                     <item>Jo. Turner.</item>
+                     <item>Io. Cliffe.</item>
+                     <item>Pet. Wyburne.</item>
+                     <item>Theod. Sceut.</item>
+                     <item>Brya. Stapleton.</item>
+                     <item>David Dunbar.</item>
+                     <item>Tho. Hill.</item>
+                     <item>Geo. Launder.</item>
+                     <item>Ed. Montgomery.</item>
+                     <item>Hen. Tilliard.</item>
+                     <item>Io. Colvell.</item>
+                     <item>Will. Iohnſon.</item>
+                     <item>Geo. Montgomery.</item>
+                     <item>Io. Reevonin.</item>
+                     <item>Art. Hambleton.</item>
+                     <item>Will. Gibbs.</item>
+                     <item>Bob. Whitfeeld.</item>
+                     <item>Ioh. Camphell.</item>
+                     <item>Ioſ. Wheeler.</item>
+                     <item>Io. Wheeler.</item>
+                     <item>Will. Alfrey.</item>
+                     <item>Dudley Loftus.</item>
+                     <item>Nich. Simſon.</item>
+                     <item>Rog. Alinſon.</item>
+                     <item>Will. Pigat.</item>
+                     <item>Ant. Doping.</item>
+                     <item>Ratcl. Duckenfeeld.</item>
+                     <item>Will. Lucaſſe.</item>
+                     <item>Tho. Leigh.</item>
+                     <item>Dan. Foſter.</item>
+                     <item>Io. Sterling.</item>
+                     <item>Ad. Merideth.</item>
+                     <item>Rob. Sanderſor.</item>
+                     <item>Tho. Coote.</item>
+                     <item>Geo. Bently.</item>
+                     <item>Tho. Lallis.</item>
+                     <item>Will. <g ref="char:V">Ʋ</g>
+                        <g ref="char:V">Ʋ</g>hite.</item>
+                     <item>Ed. Pygot.</item>
+                     <item>Ioh. Dernelle.</item>
+                     <item>VVill. Knight.</item>
+                     <item>VVill. Palmes.</item>
+                     <item>Ed. Springe.</item>
+                     <item>Ro. Percivall.</item>
+                     <item>Io. Cranford.</item>
+                     <item>Tho. Aglmen.</item>
+                     <item>VVill. Aubrey.</item>
+                     <item>Io. Iohnſon.</item>
+                     <item>Io. Doyley.</item>
+                     <item>Ioſ. Allen.</item>
+                     <item>Rob. Cole.</item>
+                     <item>Ioh. Kenedey.</item>
+                     <item>Nich. Pinner.</item>
+                     <item>Cooley. Phillips.</item>
+                     <item>Rob. Stuart.</item>
+                     <item>Ioh. Hoy.</item>
+                     <item>Tho. <g ref="char:V">Ʋ</g>
+                        <g ref="char:V">Ʋ</g>hite.</item>
+                     <item>Paul. Canning.</item>
+                     <item>Sam. Mullenex.</item>
+                     <item>Io. Lyght.</item>
+                     <item>And. Brewarton.</item>
+                     <item>VVill. Hamilton.</item>
+                     <item>Hen. Kenney.</item>
+                     <item>Io. Billingham.</item>
+                     <item>VVill Humphrey.</item>
+                     <item>Hug. Gerney.</item>
+                     <item>Io. Clark.</item>
+                     <item>Io. Feeld.</item>
+                     <item>Ed. Fiſher.</item>
+                     <item>Io. Shenning.</item>
+                     <item>Iohnthor Holt.</item>
+                     <item>Io. Combloody.</item>
+                     <item>Tho. Lawton.</item>
+                     <item>And. Crimlle.</item>
+                     <item>Nath. Higinſon.</item>
+                     <item>Io. VValker.</item>
+                     <item>Re. Holland.</item>
+                     <item>VVal. Fraſer.</item>
+                     <item>Geor. Oſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſton.</item>
+                     <item>Tho. Manley.</item>
+                     <item>Fra. Barbar.</item>
+                     <item>VVill. Bodington.</item>
+                     <item>And. Young.</item>
+                     <item>Ed. Barton.</item>
+                     <item>VVill. Richardſon.</item>
+                     <item>Io. Penroſe.</item>
+                     <item>Rob. Maſon.</item>
+                     <item>VVill. Medops.</item>
+                     <item>Mat. Sloghſon.</item>
+                     <item>Iohn. Roe.</item>
+                     <item>VVill. Steward.</item>
+                     <item>Adam Iones.</item>
+                     <item>VVill. Teddey.</item>
+                     <item>Rob. Bowyer.</item>
+                     <item>Arno. Coſby.</item>
+                     <item>VVill. Sands.</item>
+                     <item>Nat. Hollington.</item>
+                     <item>Adam <g ref="char:V">Ʋ</g>
+                        <g ref="char:V">Ʋ</g>atſon.</item>
+                     <item>Io. <g ref="char:V">Ʋ</g>
+                        <g ref="char:V">Ʋ</g>oods.</item>
+                     <item>Mat. Forester.</item>
+                     <item>Arnold. Boate.</item>
+                     <item>Io. Parſons.</item>
+                     <item>VVill. Gilbert.</item>
+                     <item>Rob. Iones.</item>
+                     <item>Francis King.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
